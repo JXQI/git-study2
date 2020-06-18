@@ -1,2 +1,3 @@
 # git-study2
-study git 
+study git
+add branch dev
